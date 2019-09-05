@@ -1,0 +1,68 @@
+
+.border>span {
+  text-decoration: line-through;
+}
+.border {
+  padding-top: 50px;
+  padding-left: 50px;
+  color:rgba(128, 128, 128, 0.5);
+  font-family:"Trebuchet MS";
+  background-color: black;
+
+}
+.title {
+  color:white;
+  margin-left:450px;
+  margin-top: 70px;
+  font-size: 70px;
+  font-family: "Times New Roman";
+  border-bottom: 1px solid white;
+
+}
+#head {
+  background-color: black;
+}
+
+div.lists {
+  padding-top: 20px;
+  background-color: black;
+  padding-left:  400px;
+  color: white;
+  border-bottom: 1px solid white;
+}
+.list > span {
+  font-size: 10px;
+  padding-left: 20px;
+}
+
+.catelog {
+  padding-top: 30px;
+  padding-left: 370px;
+  background-color: white;
+}
+.catelog > img {
+  padding-left: 30px;
+}
+span > p.user {
+  padding-left: 8px;
+}
+span>p.note {
+  padding-left: 5px;
+}
+span>p.clock {
+  padding-left: 5px;
+}
+
+body> div.rect {
+  margin-top: 20px;
+  width: 1000px;
+  height:1300px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background: black;
+}
+footer {
+  margin: 20px;
+  padding-left: 80px;
+  font-size: 15px;
+}
