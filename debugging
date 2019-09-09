@@ -1,0 +1,35 @@
+
+ 
+
+chrome developer tool 의 Elements tap 부분을 알아본다.
+
+elements tap 은 HTML and CSS 를 개발할때 반드시 알아야 하는 tap 이다.
+
+ 
+
+밑에보면 style 이 있는데 이름과 같이 style 보여주고있다.
+
+ 
+
+selector 에는 우선순위가 존재한다.
+
+ 
+
+
+display 가 있는데 CSS 과정에서 이것을 doubt 했고, 
+
+이 값을 반영했다는 걸을 보여준다.
+
+ 
+
+computed tap 에 가면 왜 취소가 됐는지 보여준다.
+
+ 
+
+margin or padding 은 상속받지 못하고 color 는 받는다.
+
+ 
+
+test 하고 싶을때는 가장 먼저 적용되는 inline 으로 하면 된다.
+
+ 
